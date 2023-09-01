@@ -27,7 +27,7 @@ public class Main {
 
 		double tutar = (armut * armutFiyat) + (elma * elmaFiyat) + (domates * domatesFiyat) + (muz * muzFiyat)
 				+ (patlican * patlicanFiyat);
-		System.out.println("Toplam tutar : " + tutar);
+		System.out.println("Toplam tutar : " + tutar); 
 	}
 
 }
