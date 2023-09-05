@@ -16,15 +16,14 @@ public class Main {
 
 		while (number != 0) {
 			basValue = number % 10;
-			number = number / 10; // basamak sayısı ve aynı zamanda basamak sayılarının toplamı
+			number = number / 10; 						// basamak sayısı ve aynı zamanda basamak sayılarının toplamı
 			total = total + basValue;
 			index++;
 		}
 		number = realNumber;
 		while (number != 0) {
 			basValue = number % 10;
-			sum = (int) (sum + Math.pow(basValue, index)); // basamak sayılarının basamak sayısı -
-															// cinsinden üslerinin alınması
+			sum = (int) (sum + Math.pow(basValue, index)); 	  // basamak sayılarının basamak sayı cinsinden üslerinin alınması
 			number /= 10;
 
 		}
