@@ -16,7 +16,7 @@ public class Main {
 
 		while (number != 0) {
 			basValue = number % 10;
-			number = number / 10; 						// basamak sayısı ve aynı zamanda basamak sayılarının toplamı
+			number = number / 10; 		// basamak sayısı ve aynı zamanda basamak sayılarının toplamı
 			total = total + basValue;
 			index++;
 		}
