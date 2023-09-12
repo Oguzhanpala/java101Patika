@@ -29,6 +29,6 @@ public class Main {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("Palindrom olma durumu : " + isPalindrom(500));
+		System.out.println("Palindrom olma durumu : " + isPalindrom(247742));
 	}
 }
