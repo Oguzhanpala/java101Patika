@@ -9,7 +9,6 @@ public class Main {
 			for (int j = 2; j < i; j++) {
 				if (i % j == 0) {
 					index++;
-
 				}
 			}
 			if (index == 0) {
