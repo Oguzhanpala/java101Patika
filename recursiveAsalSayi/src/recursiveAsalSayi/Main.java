@@ -11,7 +11,6 @@ public class Main {
 		if (divider % divisor == 0) {
 			return false;
 		}
-
 		return isPrime(divider, divisor - 1);
 	}
 
