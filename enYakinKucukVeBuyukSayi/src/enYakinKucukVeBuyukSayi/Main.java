@@ -41,5 +41,6 @@ public class Main {
 		}
 		System.out.println("Girilen değere yakın en küçük sayı : " + min);
 		System.out.println("Girilen değere yakın en büyük sayı : " + max);
+
 	}
 }
