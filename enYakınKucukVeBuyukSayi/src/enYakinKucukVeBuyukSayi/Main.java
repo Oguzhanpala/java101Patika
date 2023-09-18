@@ -1,4 +1,4 @@
-package enYakınKucukVeBuyukSayi;
+package enYakinKucukVeBuyukSayi;
 
 import java.util.Arrays;
 import java.util.Scanner;
