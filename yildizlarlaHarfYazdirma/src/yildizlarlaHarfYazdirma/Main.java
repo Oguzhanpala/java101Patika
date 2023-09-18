@@ -24,7 +24,6 @@ public class Main {
 			System.out.println();
 		}
 		return letter;
-
 	}
 
 	public static String[][] createB() {
@@ -48,11 +47,10 @@ public class Main {
 			System.out.println();
 		}
 		return letter;
-
 	}
 
 	public static void main(String[] args) {
-		//createA();
+		// createA();
 		createB();
 	}
 }
